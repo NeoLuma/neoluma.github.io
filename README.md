@@ -1,2 +1,2 @@
-# rtluma.github.io
-Source for RtLuma's main website.
+# RtLuma Project Site
+This repository is the static site that runs [rtluma.org](http://rtluma.org).
