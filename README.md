@@ -1,2 +1,2 @@
-# RtLuma Project Site
-This repository is the static site that runs [rtluma.org](http://rtluma.org).
+# NeoLuma Project Site
+This repository is the static site that runs [neoluma.org](http://neoluma.org).
